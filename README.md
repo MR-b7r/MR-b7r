@@ -11,7 +11,7 @@
 ## Contact
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](haithamb74@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitham-bahr-b33b1224b/)
-[![haitham-bahr.com](https://img.shields.io/badge/Haitham_Bahr-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vscode-themes-portfolio.netlify.app/)
+[![haitham-bahr.com](https://img.shields.io/badge/Haitham_Bahr-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://haitham-bahr.netlify.app/)
 
 ## languages & Frameworks
 
